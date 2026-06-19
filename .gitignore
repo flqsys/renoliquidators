@@ -41,3 +41,6 @@ Thumbs.db
 *.log
 debug.log
 error_log
+
+# Local Apache rewrites
+.htaccess
