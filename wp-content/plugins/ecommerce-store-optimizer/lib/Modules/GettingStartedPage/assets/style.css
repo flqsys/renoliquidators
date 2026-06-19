@@ -1,0 +1,412 @@
+:root {
+	--color-brand: #5b42ae;
+	--color-brand-hover: #453382;
+	--color-blue: #3600cc;
+	--color-heading: #263238;
+	--color-body: #263238;
+	--color-white: #fff;
+	--color-black: #000;
+	--color-dark-gray: #263238;
+	--color-gray: #f5f6f7;
+	--color-light-gray: #eceff1;
+}
+
+.toplevel_page_ecommerce-store-optimizer-getting-started #wpcontent {
+	padding-left: 0;
+	margin-left: 158px;
+}
+
+.toplevel_page_ecommerce-store-optimizer-getting-started #wpbody-content {
+	float: none;
+}
+
+.toplevel_page_ecommerce-store-optimizer-getting-started .wrap {
+	margin: 0;
+}
+
+.toplevel_page_ecommerce-store-optimizer-getting-started {
+	background: #fff;
+}
+
+.toplevel_page_ecommerce-store-optimizer-getting-started .update-nag {
+	display: none;
+}
+
+.toplevel_page_ecommerce-store-optimizer-getting-started p {
+	font-size: 18px;
+	color: var(--color-body);
+}
+
+.eso-header {
+	background: linear-gradient(260.31deg, #0ecad4 8.72%, #7e5cef 105.71%);
+	padding: 2% 5%;
+}
+
+.eso-header h1 {
+	color: var(--color-white);
+	font-size: 32px;
+}
+
+.eso-header a {
+	background: #fff;
+	color: var(--color-body);
+	font-size: 20px;
+	padding: 20px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+.eso-header-right {
+	display: flex;
+	align-items: center;
+	margin-left: auto;
+}
+
+.eso-header-right a {
+	align-items: center;
+	display: flex;
+	box-shadow: 3px 3px 10px rgb(0 0 0 / 15%);
+	transition: 0.2s ease;
+}
+
+.eso-header-right a:hover,
+.eso-header-right a:focus {
+	transform: scale(1.05);
+	box-shadow: 3px 3px 10px rgb(0 0 0 / 30%);
+}
+
+.eso-header-right img {
+	width: 25px;
+	margin-right: 10px;
+}
+
+.eso-body {
+	padding: 3% 5% 3% 5%;
+}
+
+.eso-left img {
+	max-width: 100%;
+	border-radius: 10px;
+}
+
+.eso-more-details {
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 0 2em;
+	border-top: dotted 1px #bbb;
+	margin-top: 4%;
+	padding-top: 4%;
+	align-items: center;
+}
+
+.eso-more-details h3 {
+	margin-top: 0;
+	font-size: 20px;
+}
+
+.eso-more-details p:last-child {
+	margin: 0;
+}
+
+.eso-left-box {
+	border-radius: 30px;
+	background: var(--color-gray);
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 5px;
+}
+
+.eso-left h2 {
+	font-size: 28px;
+	margin: 0;
+	line-height: 1.1;
+	text-align: center;
+	padding: 40px 0 0 0;
+	color: var(--color-black);
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.eso-left a {
+	color: var(--color-body);
+	text-decoration: none;
+}
+
+.eso-left a:hover {
+	text-decoration: underline;
+	color: var(--color-brand);
+}
+
+.eso-left-checklist {
+	padding: 40px;
+}
+
+.eso-left li p {
+	margin: 0 0 0 0;
+	font-size: 22px;
+	padding-left: 60px;
+}
+
+.eso-left p strong {
+	font-size: 20px;
+}
+
+.eso-left ul {
+	counter-reset: eso-step-counter;
+	list-style: none;
+	margin: 0;
+	background: #fff;
+	border-radius: 10px;
+}
+
+.eso-left ul li {
+	margin: 0;
+	counter-increment: eso-step-counter;
+	position: relative;
+	border-bottom: dotted 1px #ddd;
+	padding: 30px 20px;
+}
+
+.eso-left ul li:last-child {
+	margin-bottom: 0;
+	border-bottom: none;
+}
+
+.eso-left ul li::before {
+	content: counter(eso-step-counter);
+	color: var(--color-white);
+	font-size: 1.2rem;
+	font-weight: 600;
+	position: absolute;
+	--size: 40px;
+	left: 20px;
+	top: 26px;
+	line-height: var(--size);
+	width: var(--size);
+	height: var(--size);
+	background: var(--color-brand);
+	border-radius: 50%;
+	text-align: center;
+}
+
+.eso-right-box {
+	padding-top: 40px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.eso-right h2 {
+	font-size: 28px;
+	margin: 0;
+	line-height: 1.1;
+	text-align: left;
+	color: var(--color-black);
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.eso-right a {
+	color: var(--color-body);
+	text-decoration: none;
+}
+
+.eso-right a:hover {
+	text-decoration: underline;
+	color: var(--color-brand);
+}
+
+.eso-right li p {
+	margin: 0 0 0 0;
+	font-size: 22px;
+	padding-left: 60px;
+}
+
+.eso-right p strong {
+	font-size: 18px;
+}
+
+.eso-statement {
+	font-size: 18px;
+}
+
+.eso-prod-notice {
+	font-size: 12px;
+	display: block;
+	color: var(--color-brand-hover);
+}
+
+.eso-grid-2 {
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-template-columns: 1fr 1fr;
+	grid-template-areas: "col1 col2";
+	grid-gap: 0 5em;
+}
+
+.eso-grid-3 {
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-areas: "col1 col2 col3";
+	grid-gap: 0 2em;
+}
+
+.eso-docs h4{
+	font-size: 20px;
+	margin-bottom: 3%;
+}
+
+.eso-docs ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.eso-docs li {
+	font-size: 15px;
+    margin-bottom: 8px;
+}
+
+.eso-docs a {
+    color: #0073aa;
+    text-decoration: underline;
+}
+
+.eso-docs a:hover {
+    color: #005177;
+}
+
+.eso-doc {
+	background: var(--color-light-gray);
+	border-radius: 10px;
+	padding: 35px;
+	text-align: center;
+}
+
+.eso-doc h3 {
+	font-size: 24px;
+	margin-top: 0;
+	line-height: 1;
+}
+
+.eso-doc a,
+.eso-regenerate {
+	padding: 15px 20px;
+	background: var(--color-brand);
+	color: #fff;
+	text-align: center;
+	border-radius: 5px;
+	text-decoration: none;
+	font-size: 18px;
+	display: inline-block;
+	transition: 0.2s ease;
+	border: none;
+}
+
+.eso-regenerate {
+	margin-top: 15px;
+}
+
+.eso-doc a:hover,
+.eso-doc a:focus,
+.eso-regenerate:hover {
+	background: var(--color-brand-hover);
+	cursor: pointer;
+}
+
+@media (max-width: 960px) {
+
+	.toplevel_page_ecommerce-store-optimizer-getting-started #wpcontent {
+		margin-left: 36px;
+	}
+}
+
+@media (max-width: 782px) {
+
+	.toplevel_page_ecommerce-store-optimizer-getting-started #wpcontent {
+		margin-left: 0;
+	}
+
+	.eso-body {
+		padding: 5%;
+	}
+
+	.eso-grid-2 {
+		grid-template-columns: 1fr;
+		grid-template-areas: "col1";
+		grid-gap: 2em 0;
+	}
+
+	.eso-grid-3 {
+		grid-template-columns: 1fr;
+		grid-template-areas: "col1";
+		grid-gap: 2em 0;
+	}
+
+	.eso-header {
+		padding: 5%;
+	}
+
+	.eso-header-right {
+		margin-left: 0;
+	}
+
+	.eso-right h2 {
+		font-size: 22px;
+	}
+
+	.eso-right li p {
+		font-size: 20px;
+	}
+
+	.eso-more-details {
+		grid-template-columns: 1fr;
+	}
+
+	.eso-more-details p {
+		margin: 0 0 1.5em 0;
+	}
+}
+
+.eso-importing {
+	margin-top: 20px;
+	background: #eceff1;
+	padding: 10px 15px;
+	border-radius: 5px;
+}
+
+.eso-importing .spinner {
+	float: left;
+}
+
+.eso-help {
+	font-size: 20px;
+    margin-top: 50px;
+    border-top: 1px solid #E0E0E0;
+    padding-top: 40px;
+}
+
+.eso-help p{
+	font-size: 18px;
+}
+
+.eso-support-button {
+	background-color: #6A56E4;
+	border: 1px solid #6A56E4;
+	color: #fff !important;
+	padding: 12px 30px;
+	border-radius: 10px;
+	font-weight: 600;
+	font-size: 14px;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.eso-support-button:hover {
+	background-color: #5943d6;
+	border-color: #5943d6;
+	color: #fff;
+	text-decoration: none;
+}

@@ -1,0 +1,409 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Ultimate Tabs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-16 17:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/options-init.php:278
+msgid ". Tab"
+msgstr ""
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr ""
+
+#: admin/options-init.php:259
+msgid "Add a background color to the tabs."
+msgstr ""
+
+#: admin/options-init.php:512
+msgid "Add a background color to this tab."
+msgstr ""
+
+#: admin/options-init.php:250
+msgid "Add a text color to the tabs."
+msgstr ""
+
+#: admin/options-init.php:503
+msgid "Add a text color to this tab."
+msgstr ""
+
+#: admin/options-init.php:216
+msgid "Add an Background Image to the tabs."
+msgstr ""
+
+#: admin/options-init.php:469
+msgid "Add an Background to this tab."
+msgstr ""
+
+#: admin/options-init.php:208
+msgid "Add an Icon to the tabs."
+msgstr ""
+
+#: admin/options-init.php:461
+msgid "Add an Icon to this tab. <b>Important"
+msgstr ""
+
+#: admin/options-init.php:543
+msgid "Add some javascript if you want."
+msgstr ""
+
+#: admin/options-init.php:536
+msgid "Add some stylesheet if you want."
+msgstr ""
+
+#: admin/options-init.php:526
+msgid "Advanced settings"
+msgstr ""
+
+#: admin/options-init.php:129
+msgid "Amount of Global Tabs"
+msgstr ""
+
+#: admin/options-init.php:382
+msgid "Amount of products"
+msgstr ""
+
+#: admin/options-init.php:414
+msgid "Apply for Product Categories"
+msgstr ""
+
+#: admin/options-init.php:426
+msgid "Apply for Products "
+msgstr ""
+
+#: admin/options-init.php:404
+msgid "Apply Tab only for"
+msgstr ""
+
+#: admin/options-init.php:323
+msgid "Callback"
+msgstr ""
+
+#: admin/options-init.php:392
+msgid "Columns"
+msgstr ""
+
+#: admin/options-init.php:393
+msgid ""
+"Configure how many columns will be shown on e.g. related products callback."
+msgstr ""
+
+#: admin/options-init.php:307
+msgid "Contact 7 Form"
+msgstr ""
+
+#: admin/options-init.php:343
+msgid "Contact 7 Forms"
+msgstr ""
+
+#: admin/options-init.php:223 admin/options-init.php:476
+msgid "Contain"
+msgstr ""
+
+#: admin/options-init.php:329
+msgid "Content Editor"
+msgstr ""
+
+#: admin/options-init.php:224 admin/options-init.php:477
+msgid "Cover"
+msgstr ""
+
+#: admin/options-init.php:535
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options-init.php:542
+msgid "Custom JS"
+msgstr ""
+
+#: admin/options-init.php:527
+msgid "Custom stylesheet / javascript."
+msgstr ""
+
+#: admin/class-woocommerce-ultimate-tabs-admin.php:123
+msgid "Custom Tabs"
+msgstr ""
+
+#. Author of the plugin
+msgid "DB-Dzine"
+msgstr ""
+
+#: admin/options-init.php:306
+msgid "Editor"
+msgstr ""
+
+#: admin/options-init.php:123 admin/options-init.php:286
+msgid "Enable"
+msgstr ""
+
+#: admin/options-init.php:193
+msgid "Enable Global Styles"
+msgstr ""
+
+#: admin/options-init.php:446
+msgid "Enable Styling"
+msgstr ""
+
+#: admin/options-init.php:154
+msgid "Enable Tab Rename"
+msgstr ""
+
+#: admin/options-init.php:287
+msgid "Enable this tab."
+msgstr ""
+
+#: admin/options-init.php:124
+msgid "Enable ultimate tabs to use the options below"
+msgstr ""
+
+#: admin/options-init.php:115
+msgid "General"
+msgstr ""
+
+#: admin/options-init.php:185
+msgid "Global Styles"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.welaunch.io"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.welaunch.io"
+msgstr ""
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr ""
+
+#: admin/options-init.php:383
+msgid ""
+"Limit the number of products to be shown on e.g. related products callback."
+msgstr ""
+
+#: admin/options-init.php:130
+msgid "Limit the number of tabs to decrease admin panel load time."
+msgstr ""
+
+#: admin/options-init.php:110
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+
+#: admin/options-init.php:236 admin/options-init.php:489
+msgid "No Repeat"
+msgstr ""
+
+#: admin/options-init.php:405 admin/options-init.php:415
+msgid "Only add this tab to specific product categories."
+msgstr ""
+
+#: admin/options-init.php:427
+msgid "Only add this tab to specific products."
+msgstr ""
+
+#: admin/options-init.php:298
+#: admin/class-woocommerce-ultimate-tabs-admin.php:187
+msgid "Priority"
+msgstr ""
+
+#: admin/class-woocommerce-ultimate-tabs-admin.php:187
+msgid "Priority of the Tab"
+msgstr ""
+
+#: admin/options-init.php:299
+msgid ""
+"Priority of the Tab. General Tabs have the priority as followed:<br/>TAB "
+"Position * 10 (e.g. Product Description is on 1, then you have the priority "
+"of 10)."
+msgstr ""
+
+#: admin/options-init.php:177
+msgid "Remove Tab-Functionality"
+msgstr ""
+
+#: admin/options-init.php:171
+msgid "Rename Additional Information Tab"
+msgstr ""
+
+#: admin/options-init.php:159
+msgid "Rename Description Tab"
+msgstr ""
+
+#: admin/options-init.php:165
+msgid "Rename Reviews Tab"
+msgstr ""
+
+#. Description of the plugin
+msgid "Reorder, Rename, Disable or add custom Tabs to your WooCommerce Store."
+msgstr ""
+
+#: admin/options-init.php:235 admin/options-init.php:488
+msgid "Repeat"
+msgstr ""
+
+#: admin/options-init.php:238 admin/options-init.php:491
+msgid "Repeat-X"
+msgstr ""
+
+#: admin/options-init.php:237 admin/options-init.php:490
+msgid "Repeat-Y"
+msgstr ""
+
+#: admin/class-woocommerce-ultimate-tabs-admin.php:185
+msgid "Required for tab to be visible"
+msgstr ""
+
+#: admin/options-init.php:366
+msgid "Select the category from where the products should be shown."
+msgstr ""
+
+#: admin/options-init.php:344
+msgid "Select the form you want to show."
+msgstr ""
+
+#: admin/options-init.php:357 admin/options-init.php:376
+msgid "Select the products you want to show."
+msgstr ""
+
+#: admin/options-init.php:241 admin/options-init.php:494
+msgid "Set the Repeat for the Background Image."
+msgstr ""
+
+#: admin/options-init.php:227 admin/options-init.php:480
+msgid "Set the Size for the Background Image."
+msgstr ""
+
+#: admin/options-init.php:318
+msgid "Show Best Selling Products"
+msgstr ""
+
+#: admin/options-init.php:311
+msgid "Show Cart"
+msgstr ""
+
+#: admin/options-init.php:375
+msgid "Show Categories"
+msgstr ""
+
+#: admin/options-init.php:316
+msgid "Show Featured Products"
+msgstr ""
+
+#: admin/options-init.php:314
+msgid "Show My Account"
+msgstr ""
+
+#: admin/options-init.php:313
+msgid "Show Order Tracking"
+msgstr ""
+
+#: admin/options-init.php:310
+msgid "Show Product Categories"
+msgstr ""
+
+#: admin/options-init.php:356
+msgid "Show Products"
+msgstr ""
+
+#: admin/options-init.php:309 admin/options-init.php:365
+msgid "Show Products by category"
+msgstr ""
+
+#: admin/options-init.php:315
+msgid "Show Recent Products"
+msgstr ""
+
+#: admin/options-init.php:320
+msgid "Show Related Products"
+msgstr ""
+
+#: admin/options-init.php:317
+msgid "Show Sale Products"
+msgstr ""
+
+#: admin/options-init.php:308
+msgid "Show single Products"
+msgstr ""
+
+#: admin/options-init.php:319
+msgid "Show Top Rated Products"
+msgstr ""
+
+#: admin/options-init.php:440
+msgid "Style this Tab."
+msgstr ""
+
+#: admin/options-init.php:439
+msgid "Styling"
+msgstr ""
+
+#: admin/options-init.php:468
+msgid "Tab Background"
+msgstr ""
+
+#: admin/options-init.php:258 admin/options-init.php:511
+msgid "Tab Background Color"
+msgstr ""
+
+#: admin/options-init.php:215
+msgid "Tab Background Image"
+msgstr ""
+
+#: admin/options-init.php:240 admin/options-init.php:493
+msgid "Tab Background Repeat"
+msgstr ""
+
+#: admin/options-init.php:226 admin/options-init.php:479
+msgid "Tab Background Size"
+msgstr ""
+
+#: admin/options-init.php:207 admin/options-init.php:460
+msgid "Tab Icon"
+msgstr ""
+
+#: admin/options-init.php:249 admin/options-init.php:502
+msgid "Tab Text Color"
+msgstr ""
+
+#: admin/class-woocommerce-ultimate-tabs-admin.php:185
+msgid "Tab Title"
+msgstr ""
+
+#: admin/options-init.php:178
+msgid ""
+"This only removes the tab fields where you can click. You will see the tabs "
+"displayed below each other."
+msgstr ""
+
+#: admin/options-init.php:292
+msgid "Title"
+msgstr ""
+
+#: admin/options-init.php:293
+msgid "Title of the Tab."
+msgstr ""
+
+#: admin/options-init.php:108
+msgid "Ultimate Tabs"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Ultimate Tabs"
+msgstr ""
+
+#: woocommerce-ultimate-tabs.php:88
+msgid ""
+"WooCommerce Ultimate Tabs requires the WooCommerce and Redux Framework "
+"plugin. Please install or activate them before!"
+msgstr ""

@@ -1,0 +1,22 @@
+.block-editor .editor-styles-wrapper,
+.block-editor .editor-styles-wrapper p {
+	font-size: 18px;
+}
+
+.block-editor .editor-styles-wrapper h1,
+.block-editor .editor-styles-wrapper h2,
+.block-editor .editor-styles-wrapper h3,
+.block-editor .editor-styles-wrapper h4,
+.block-editor .editor-styles-wrapper h5,
+.block-editor .editor-styles-wrapper h6,
+.block-editor .editor-styles-wrapper .editor-post-title__block .editor-post-title__input {
+	font-weight: 600;
+}
+
+.block-editor .editor-styles-wrapper .eso-spend-section-banner p {
+	margin-bottom: 0;
+}
+
+#wp-admin-bar-eso-help-link .ab-icon::before {
+	top: 2px;
+}

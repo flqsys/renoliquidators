@@ -1,0 +1,9 @@
+tr[data-slug="ecommerce-store-optimizer"].active td,
+tr[data-slug="ecommerce-store-optimizer"].active th {
+	background-color: #e8eaea;
+	color: #555;
+}
+
+tr[data-slug="ecommerce-store-optimizer"].active th.check-column {
+	border-color: #a9b1af;
+}

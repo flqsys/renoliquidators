@@ -1,0 +1,1 @@
+{"admin/settings.js":{"dependencies":[],"version":"754961b53d822b83d128"},"admin/wizard/wizard.js":{"dependencies":["react","wp-api-fetch","wp-components","wp-element","wp-hooks","wp-i18n"],"version":"aa0bc15be21508a87ff8"},"admin/product.js":{"dependencies":[],"version":"b3f9f3d5e0b8fd80ae15"}}

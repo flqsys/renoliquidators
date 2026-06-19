@@ -1,0 +1,19 @@
+{
+    "packages": [
+        {
+            "name": "genesis/blocks",
+            "version": "trunk",
+            "version_normalized": "dev-trunk",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/genesis-blocks/",
+                "reference": "trunk"
+            },
+            "type": "library",
+            "installation-source": "source",
+            "install-path": "../genesis/blocks"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

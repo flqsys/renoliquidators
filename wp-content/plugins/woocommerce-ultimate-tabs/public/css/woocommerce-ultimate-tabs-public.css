@@ -1,0 +1,17 @@
+
+			.woocommerce-tabs ul.tabs > li {
+				color:  !important;
+				background-color:  !important;
+				background-image: url('');
+				background-size: contain;
+				background-repeat: repeat;
+			}
+			.woocommerce-tabs ul.tabs li.active a,
+			.woocommerce-tabs ul.tabs li a {
+				color:  !important;
+			}
+			
+			.woocommerce-product-gallery {
+				opacity: 1 !important;
+			}
+			

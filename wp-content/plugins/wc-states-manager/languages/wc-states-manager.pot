@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: States Manager for WooCommerce 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-states-manager\n"
+"POT-Creation-Date: 2024-11-18 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: wc-states-manager\n"
+
+#. Plugin Name of the plugin
+msgid "States Manager for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to manage states/regions for multiple countries in WooCommerce checkout and shipping options."
+msgstr ""
+
+#. Author of the plugin
+msgid "Muhammad Usman Ramzan"
+msgstr ""
+
+#: wc-states-manager.php:66
+msgid "WooCommerce States Manager requires WooCommerce to be installed and active."
+msgstr ""
+
+#: wc-states-manager.php:122
+msgid "Settings"
+msgstr ""
+
+#: wc-states-manager.php:137
+msgid "Edit States/Regions"
+msgstr ""
+
+#: wc-states-manager.php:180
+msgid "Search country and states..."
+msgstr ""
+
+#: wc-states-manager.php:181
+msgid "Selected states:"
+msgstr ""
+
+#: wc-states-manager.php:182
+msgid "You haven't selected any states. Are you sure you want to continue?"
+msgstr ""
+
+#: wc-states-manager.php:305
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wc-states-manager.php:325
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: wc-states-manager.php:341
+msgid "States/Regions Manager Settings"
+msgstr ""
+
+#: wc-states-manager.php:342
+msgid "Select the states/regions you want to allow for shipping and billing in WooCommerce."
+msgstr ""
+
+#: wc-states-manager.php:354
+msgid "Select All"
+msgstr ""
+
+#: wc-states-manager.php:358
+msgid "Deselect All"
+msgstr ""
+
+#: wc-states-manager.php:385
+msgid "Save Changes"
+msgstr ""

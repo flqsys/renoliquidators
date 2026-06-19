@@ -1,0 +1,44 @@
+body.theme-storefront {
+	font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.widget .widget-title {
+	font-weight: 600;
+}
+
+.eso-spend-section-banner p {
+	margin-bottom: 0;
+}
+
+.widget_product_search form::before,
+.widget_search form::before {
+	z-index: 5;
+}
+
+#wp-admin-bar-eso-help-link .ab-icon::before {
+	top: 2px;
+}
+
+.added_to_cart,
+.add_to_cart_button {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}
+
+/* Override Storefront styles for accessibility */
+@media (min-width: 768px) {
+
+	header .site-header-cart .cart-contents .count {
+		opacity: 1;
+	}
+}
+
+main .price del {
+	opacity: 0.8;
+}

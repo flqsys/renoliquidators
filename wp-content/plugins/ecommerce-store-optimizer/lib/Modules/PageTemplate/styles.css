@@ -1,0 +1,18 @@
+/* Block Page Template
+---------------------------------------------------------------------------- */
+
+.page-template-blocks.home.page.page-template .site-header,
+.page-template-blocks .site-main,
+.page-template-blocks .content-area .hentry,
+.page-template-blocks .content-area {
+	margin-bottom: 0;
+}
+
+@media (max-width: 66.4989378333em) {
+
+	.page-template-blocks .site-content .col-full {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+}
