@@ -113,4 +113,9 @@ add_filter( 'acf/location/rule_match/wc_prod_attr', function( $match, $rule, $op
     return $match;
 }, 10, 3 );
 /*----------------END ACF - add WC Product Attribute  -------*/
-
+// Flatsome already prints the WooCommerce store notice on flatsome_after_body_open.
+// Newer WooCommerce also hooks it to wp_body_open, which prints the notice twice.
+add_action( 'init', 'rl_remove_duplicate_wc_store_notice', 20 );
+function rl_remove_duplicate_wc_store_notice() {
+    remove_action( 'wp_body_open', 'woocommerce_demo_store' );
+}
